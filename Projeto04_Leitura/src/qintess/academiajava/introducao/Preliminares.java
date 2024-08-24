@@ -15,11 +15,10 @@ public class Preliminares {
 		// variavel recebendo o valor proveniente de uma constante definida no JRE.
 		double valor4 = Math.PI;
 
-		// varivel recebendo o valor de retorno de um método.
+		// varivel recebendo o valor de retorno de um mÃ©todo.
 		double valor5 = Math.random();
-
 		
-		// a variavel valor6 recebe um número como resoltado da conversão de um String
+		// a variavel valor6 recebe um nÃºmero como resoltado da conversÃ£o de um String
 		String s = "123";
 		double valor6 = Double.parseDouble(s);
 		
@@ -30,15 +29,5 @@ public class Preliminares {
 		System.out.println(valor4);
 		System.out.println(valor5);
 		System.out.println(valor6);
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
-
 }
